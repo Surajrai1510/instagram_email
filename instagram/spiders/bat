@@ -1,0 +1,13 @@
+start python facility_update.py 0 4
+start python facility_update.py 4 4
+start python facility_update.py 8 4
+start python facility_update.py 12 4
+start python facility_update.py 16 4
+start python facility_update.py 20 4
+start python facility_update.py 24 4
+start python facility_update.py 28 4
+start python facility_update.py 32 4
+start python facility_update.py 36 4
+start python facility_update.py 40 4
+start python facility_update.py 44 4
+
